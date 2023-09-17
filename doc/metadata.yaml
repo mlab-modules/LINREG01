@@ -1,0 +1,16 @@
+description: The module can be fitted in housings linear stabilizers D2PAK (TO263),
+  SOT223, DPAK (252).
+github_branch: LINREG01A
+github_description: The module can be fitted in housings linear stabilizers D2PAK
+  (TO263), SOT223, DPAK (252).
+github_repo: LINREG01
+github_url: https://github.com/mlab-modules/LINREG01
+homepage: false
+images:
+- doc/img/LINREG01A_top_small.jpg
+- doc/img/LINREG01A_top_big.jpg
+mark: 50
+status: 0
+tags: []
+title: LINREG01
+updated: '2023-09-17T11:43:39.906637+00:00'
